@@ -8,3 +8,5 @@ from egypt, specializing in building Web Applications, APIs and Desktop Applicat
 - 👯 I’m pretty active .
 - 📫 How to reach me: * [LinkedIn](https://www.linkedin.com/in/mahmoud-khalifa-643936138/) 
 
+always remember --> logic based creative thinking 
+
