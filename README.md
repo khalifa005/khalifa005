@@ -12,10 +12,6 @@ specializing in building Web Applications, APIs and Desktop Application using (A
 
 I follow logic based creativity
 
-
-
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
-
 ### Languages
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FC%23-blue)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
