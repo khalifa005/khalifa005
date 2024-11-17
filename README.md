@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Mahmoud Khalifa!  
 
-![Hacker GIF](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
-
 🌟 Passionate **Software Engineer** specializing in:  
 - Building **Web Applications**, **APIs**, and **Desktop Applications**.  
 - Crafting solutions using **ASP.NET Core** with **Clean Architecture** principles.  
+
+![Hacker GIF](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
 
 ---
 
@@ -32,14 +32,21 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
-### 📊 GitHub Stats  
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
+## 📊 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalifa005&show_icons=true&theme=radical&hide_border=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khalifa005&theme=radical&margin-w=15&margin-h=15)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa005&layout=compact&theme=dark)  
 ---
+
+### 📣 Showcase  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khalifa005.khalifa005)  
+
 
 
