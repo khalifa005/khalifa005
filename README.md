@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mahmoud Khalifa!  
+# 👋 Hello, I'm Mahmoud Khalifa
 
 🌟 Passionate **Software Engineer** specializing in:  
 - Building **Web Applications**, **APIs**, and **Desktop Applications**.  
